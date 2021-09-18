@@ -164,14 +164,7 @@ section .container .active .signinBx .imgBx{
     margin: 5px;
 
 }
-.container .user .formBx .btn a:hover{
-    /*
-    background-image: linear-gradient(to right, #25aae1, #6598f1, #94ccdf, #8bafe6);
-    box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75)*/
-    background-color: #677eff;
-    color: white;
-    border-radius: 10px;
-}
+
 a {
     display: block;
     color: rgb(10, 10, 10);
